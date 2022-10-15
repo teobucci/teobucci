@@ -1,16 +1,22 @@
 ### Hi there 👋
 
-<!--
-**teobucci/teobucci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Statistical Learning student at Politecnico di Milano.
 
-Here are some ideas to get you started:
+My studies are focused on Machine Learning and Statistical Learning, leveraging both classical statistics methods and modern architectures. I love writing in 📖 LaTeX 📖 as you will se in this profile.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 **Education:**
+ - Master of Science in Statistical Learning track of Mathematical Engineering at `Politecnico di Milano`
+ - Alta Scuola Politecnica (Politecnico di Milano Honor Program)
+ - Bachelor of Science in Mathematical Engineering at `Politecnico di Milano`
+
+📫 **Contacts:**
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/teobucci/)
+- `teobucci8 [at] gmail [dot] com`
+ 
+🧠 **About me:**
+- One color: Orange
+- One book: _The Murder of Roger Ackroyd_, A. Christie
+- One movie: _Treasure Planet_, R. Clements and J. Musker
+- One painting: _The School of Athens_, Raffaello
+
+Enjoy my repositories!
