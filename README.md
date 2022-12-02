@@ -31,4 +31,4 @@ My studies are focused on Machine Learning and Statistical Learning, leveraging 
 - 🌱 I've been a social media manager for Fridays For Future at national level
 - 🎥 I've been practising videomaking and photography for over 8 years
 
-Enjoy my repositories!
+Enjoy my repositories! 🚀
