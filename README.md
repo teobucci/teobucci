@@ -13,7 +13,7 @@ My studies are focused on Machine Learning and Statistical Learning, leveraging 
 📌 **Some interesting projects:**
 
 - [`Plants Species Classifier`](https://github.com/teobucci/CNN-Plants-Classifier): exploited deep neural networks to perform image classification and develop an ensemble model from pretrained state-of-the-art CNNs through transfer learning.
-- [`Estimating Clients' Needs using Machine Learning`](https://github.com/teobucci/Fintech-Project): exploited machine learning techniques to create a cross-platform web-app to recommend products based on clients' needs.
+- [`Estimating Clients' Needs using Machine Learning`](https://github.com/teobucci/Estimating-Clients-Needs-using-Machine-Learning): exploited machine learning techniques to create a cross-platform web-app to recommend products based on clients' needs.
 - [`Study Plan Maker`](https://github.com/teobucci/compilatore-piano-di-studi): a linear programming web-app to simulate the best study plan for Mathematical Engineering students.
 - [`Statistical analysis on biomechanical parameters`](https://github.com/teobucci/progetto-inferenza-statistica): linear regression for forecasting biomechanical parameters of the spine and ANOVA.
 - Lecture notes for the courses of [`Model Identification`](https://github.com/teobucci/mida), [`Continuum Mechanics`](https://github.com/teobucci/meccanica-dei-continui), [`Automation Controls`](https://github.com/teobucci/fondamenti-di-automatica), [`Physics 1`](https://github.com/teobucci/fisica-1), [`Physics 2`](https://github.com/teobucci/fisica-2), [`Partial Differential Equations`](https://github.com/teobucci/edp-analitica), [`Calculus 3`](https://github.com/teobucci/analisi-tre) of the Mathematical Engineering degree.
