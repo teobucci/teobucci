@@ -1,6 +1,6 @@
 # Hey folks 👋
 
-I'm Teo Bucci, Statistical Learning student at Politecnico di Milano.
+I'm Teo Bucci, Mathematical Engineering student at Politecnico di Milano.
 My studies are focused on Machine Learning and Statistical Learning, leveraging both classical statistics methods and modern architectures.
 
 ## 🎓 **Education:**
