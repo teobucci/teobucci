@@ -21,7 +21,7 @@ My studies are focused on Machine Learning and Statistical Learning, leveraging 
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/teobucci/)
 - `teobucci8 [at] gmail [dot] com`
 
-## 🚀 **Skills:**
+## 🚀 **Skills**
 
 <ul>
         <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' height='28'>  &nbsp 
