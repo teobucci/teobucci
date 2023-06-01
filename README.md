@@ -39,6 +39,3 @@ My studies are focused on Machine Learning and Statistical Learning, leveraging 
 - 🎥 I've been practising videomaking and photography for over 8 years
 
 Enjoy my repositories! 🚀
-
-[![Teo Bucci's GitHub stats](https://github-readme-stats.vercel.app/api?username=teobucci&hide=issues&count_private=true&show_icons=true&theme=github_dark_dimmed)](https://github.com/anuraghazra/github-readme-stats)
-
