@@ -10,6 +10,7 @@ My studies are focused on Machine Learning and Statistical Learning, leveraging 
 
 ## 📌 **Some interesting projects**
 
+- [`Heart Failure: predicting hospital re-admission after 6 months`](https://github.com/teobucci/slhd): Developed prediction model to assess whether Heart Failure patients will be readmitted to the hostpial within 6 months, based clinical and demographic data.
 - [`Nonparametric Analysis of US Dairy Production and Consumption`](https://github.com/SmearyTundra/nonparametric-analysis-US-dairy-production-consumption): Analysis of US Dairy Market dynamics from 1985 to 2021. Developed models using nonparametric statistical methods such as GAMs, bootstrap, conformal prediction, spatial analysis and Bayesian clustering to identify best operating areas, pricing strategy and trending products.
 - [`Stochastic Block Model Prior with Ordering Constraints for Gaussian Graphical Models`](https://github.com/teobucci/bayesian-statistics-project): Developed a Gibbs Sampler from scratch. In a Bayesian framework, a flexible new prior for Gaussian Graphical Models is proposed to allow learning a conditional dependence (block) structure among variables, taking into account ordering constraints.
 - [`Plants Species Classifier`](https://github.com/teobucci/CNN-Plants-Classifier): exploited deep neural networks to perform image classification and develop an ensemble model from pretrained state-of-the-art CNNs through transfer learning.
